@@ -3,4 +3,4 @@
 <t>El trabajo consta de la planificación del ERP</t>
 <h1>Estructura del repositorio</h1>
 # <t>comparativas-erp</t>
-# comparativas-erp/README.md
+# <t>comparativas-erp/README.md</t>
