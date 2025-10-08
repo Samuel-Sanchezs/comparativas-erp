@@ -11,5 +11,3 @@ El trabajo consta de la planificación del ERP
 ### [comparativas_erp](comparativas_erp.md)
 
 ### [Asset](./asset)
-
-# comparativas-erp
