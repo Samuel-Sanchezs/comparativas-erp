@@ -3,8 +3,11 @@
 
 ## Análisis ERPs escogidos
 ### ERP1
+Odoo
 ### ERP2
+Microsoft Dynamics 365 Business Central
 ### ERP3
+Netsuite
 
 ## Casos donde elegir cada ERP
 
@@ -13,6 +16,6 @@
 | ----------- | --- | --- | --- |
 |             |     |     |     |
 |             |     |     |     |
-## Conclusion
+## Conclusión
 
 ## Fuentes
