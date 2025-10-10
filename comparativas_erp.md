@@ -53,11 +53,15 @@ A la hora de escalar en la nube tienes un limite de 80Gb por tenant cosa que pue
 Netsuite
 #### Modo de despliegue
 
-
+Netsuite solo se encuentra disponible en formato SaaS nube, haciendo que todos los usuarios compartan plataforma y versión.
 
 #### Facilidad de uso
 
+Netsuit cuenta con una guia propia para ayudar a guiarte y ayudarte en tu primera vez, también cuenta con un centro de ayuda donde poder consultar dudas rápidas en una comunidad.
+
 #### Seguridad y cumplimiento
+
+
 
 #### Ecosistema y soporte
 
