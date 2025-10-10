@@ -6,8 +6,10 @@
 Odoo
 #### Modo de despliegue
 
-Odoo te permite desplegar sus herramientas de forma local, en la nube o en locker incluso
+Odoo te permite desplegar sus herramientas de forma local, en la nube o en docker incluso
 #### Facilidad de uso
+
+Odoo se encuentra disponible para dispositivos móviles
 
 #### Seguridad y cumplimiento
 
