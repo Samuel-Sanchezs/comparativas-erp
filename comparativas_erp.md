@@ -61,7 +61,7 @@ Netsuit cuenta con una guia propia para ayudar a guiarte y ayudarte en tu primer
 
 #### Seguridad y cumplimiento
 
-
+Su nivel de seguridad es mayor gracias a solo estar en formato en nube, registrado y asegurado por trabajadores, con autentificación en doble factor, encriptación SOC 1 y 2, etc.
 
 #### Ecosistema y soporte
 
