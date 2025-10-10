@@ -98,7 +98,6 @@ Creo que Odoo es una buena opción gracias a sus facilidades y como esta diseña
 ## Fuentes
 
 [Odoo](**[https://www.odoo.com/documentation/19.0/applications.html](https://www.odoo.com/documentation/19.0/applications.html)**)
-
 [Imagen](/asset/odoo_manual.png)
 
 [Odoo Guia](**[https://www.odoo.com/es_ES/slides](https://www.odoo.com/es_ES/slides)**)
