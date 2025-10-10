@@ -9,7 +9,7 @@ Odoo
 Odoo te permite desplegar sus herramientas de forma local, en la nube o en docker incluso
 #### Facilidad de uso
 
-Odoo se encuentra disponible para dispositivos móviles
+Odoo se encuentra disponible para dispositivos móviles, aunque no sea la mejor, es una aplicación funcional que te servirá para solventar varias cosas simples
 
 #### Seguridad y cumplimiento
 
