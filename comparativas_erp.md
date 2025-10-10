@@ -1,6 +1,16 @@
 # Comparativas ERP
 ## Índice
 
+Odoo
+
+Microsoft Dynamics 365 Business Central
+
+Netsuit
+
+Casos donde elegir cada ERP
+
+Conclusión
+
 ## Análisis ERPs escogidos
 ### ERP1
 Odoo
@@ -65,16 +75,45 @@ Su nivel de seguridad es mayor gracias a solo estar en formato en nube, registra
 
 #### Ecosistema y soporte
 
+Presenta distintos niveles de asistencia técnica dependiendo de tu nivel de suscripción desde abrir un ticket a estar en contacto con el equipo técnico para solventar problemas y manejar la gestión del servidor.
+
 #### Escalabilidad
 
+Dependiendo de tu suscripción y de pagar módulos extras, puedes escalabilizar en nivel vertical.
 
 ## Casos donde elegir cada ERP
 
 
-| Comparación | Odoo | Microsoft | Netsuite |
-| ----------- | ---- | --------- | -------- |
-|             |      |           |          |
-|             |      |           |          |
+| Comparación              | Odoo                                                          | Microsoft                                                                                              | Netsuite                                                              |
+| ------------------------ | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| Modo de despliegue       | Local/Nube                                                    | Local/Nube/Mixta                                                                                       | Nube                                                                  |
+| Facilidad de uso         | Esta para móvil y es fácil de manejar                         | Depende de las extensiones es algo compleja manejarla                                                  | Es relativamente sencilla de usar, su guia ayuda bastante             |
+| Seguridad y cumplimiento | Buena seguridad con buenos protocolos, en nube                | Buena seguridad con buenos protocolos, mayor seguridad dependiendo de la suscripción                   | Tiene un mayor nivel de seguridad gracias a su único formato, en nube |
+| Ecosistema y soporte     | Depende de si es en local o nube tendras mayor soporte (nube) | Ofrece distintos niveles de soporte dependiendo de la suscripción                                      | Tiene distintos niveles de asistencia técnica según tu suscripción    |
+| Escalabilidad            | Puede crecer fácilmente tanto en vertical como en horizontal  | En la nube no puede escalabilizar mucho, pero en local y mixto puede crecer verticalmente sin problema | Se puede escalabilizar de manera vertical con algunas barreras        |
 ## Conclusión
 
+Creo que Odoo es una buena opción gracias a sus facilidades y como esta diseñada puede ser muy buena opción ya que facilitara el uso en el gimnasio y podrá aumentar su tamaño en caso de haya una ola enorme de nuevos miembros.
+
 ## Fuentes
+
+[Odoo](**[https://www.odoo.com/documentation/19.0/applications.html](https://www.odoo.com/documentation/19.0/applications.html)**)
+[Imagen](/asset/odoo_manual.png)
+
+[Odoo Guia](**[https://www.odoo.com/es_ES/slides](https://www.odoo.com/es_ES/slides)**)
+[Imagen](/asset/odoo_guia.png)
+
+[Microsoft](**[https://learn.microsoft.com/es-es/dynamics365/business-central/](https://learn.microsoft.com/es-es/dynamics365/business-central/)**)
+[Imagen](/asset/Microsoft_manual.png)
+
+[Microsoft seguridad](**[https://learn.microsoft.com/es-es/dynamics365/business-central/dev-itpro/security/security-and-protection](https://learn.microsoft.com/es-es/dynamics365/business-central/dev-itpro/security/security-and-protection)**)
+[Imagen](/asset/Microsoft_manual_seguridad.png)
+
+[Netsuit Guia](**[https://www.netsuite.com/portal/services/training/suite-training/netsuite-guided-learning.shtml](https://www.netsuite.com/portal/services/training/suite-training/netsuite-guided-learning.shtml)**)
+[Imagen](/asset/Netsuit_guide.png)
+
+[Netsuit disponivilidad](**[https://www.netsuite.com/portal/platform/infrastructure/availability.shtml](https://www.netsuite.com/portal/platform/infrastructure/availability.shtml)**)
+[Imagen](/asset/Netsuit_avaliavility.png)
+
+[Netsuit seguridad](**[https://www.netsuite.com/portal/platform/infrastructure/operational-security.shtml](https://www.netsuite.com/portal/platform/infrastructure/operational-security.shtml)**)
+[Imagen](Netsuit_security.png)

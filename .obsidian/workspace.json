@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87e2364d1e1b437c",
+        "id": "9a039c676c314033",
         "type": "tabs",
         "children": [
           {
-            "id": "80b8eaeb0bb82801",
+            "id": "84a62a4f0ab742f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,20 +180,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80b8eaeb0bb82801",
+  "active": "84a62a4f0ab742f7",
   "lastOpenFiles": [
+    "README.md",
+    "comparativas_erp.md",
+    "comparativas_erp.mb/ERP1.md",
+    "comparativas_erp.mb",
+    "ERP1.md",
+    "asset/Netsuit_avaliavility.png",
+    "asset/Microsoft_manual.png",
+    "asset/odoo_manual.png",
     "asset/Netsuit_security.png",
     "asset/Captura de pantalla 2025-10-10 203055.png",
     "asset/Netsuit_guide.png",
     "asset/Captura de pantalla 2025-10-10 202343.png",
-    "asset/Netsuit_avaliavility.png",
     "asset/Captura de pantalla 2025-10-10 201827.png",
     "asset/Microsoft_manual_seguridad.png",
-    "asset/Captura de pantalla 2025-10-10 195409.png",
-    "asset/Microsoft_manual_business.png",
-    "asset/Microsoft_manual.png",
-    "asset/Captura de pantalla 2025-10-10 194604.png",
-    "README.md",
-    "comparativas_erp.md"
+    "asset/Captura de pantalla 2025-10-10 195409.png"
   ]
 }
