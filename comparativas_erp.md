@@ -15,7 +15,8 @@ Odoo se encuentra disponible para dispositivos móviles, aunque no sea la mejor,
 
 En la nube ofrece de por si un sistema de copias de seguridad distribuidas en distintos servidores del mundo para garantizar seguridad y de distintos niveles, trimestral, mensual y semanal.
 
-Cuenta de distintos protocolos de seguridad desde SHA-512 para contraseñas y transmision de credenciales por HTTPS
+Cuenta de distintos protocolos de seguridad desde SHA-512 para contraseñas y transmisión de credenciales por HTTPS. También con seguridad XSS y CSRF dentro del propio software.
+
 #### Ecosistema y soporte
 
 #### Escalabilidad
